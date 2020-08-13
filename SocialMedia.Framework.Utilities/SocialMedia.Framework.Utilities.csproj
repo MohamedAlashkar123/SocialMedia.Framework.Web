@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SocialMedia.Framework.Core\SocialMedia.Framework.Core.csproj" />
+    <ProjectReference Include="..\SocialMedia.Framework.Data\SocialMedia.Framework.Data.csproj" />
+    <ProjectReference Include="..\SocialMedia.Framework.ViewModel\SocialMedia.Framework.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Core.deps.json
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Core.dll
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Core.pdb
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Core.AssemblyInfoInputs.cache
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Core.AssemblyInfo.cs
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Core.csproj.CoreCompileInputs.cache
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Core.dll
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Core.pdb
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Core\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Core.csprojAssemblyReference.cache

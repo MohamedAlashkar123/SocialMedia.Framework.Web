@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Utilities\\SocialMedia.Framework.Utilities.csproj": {}
+  },
+  "projects": {
+    "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj",
+        "projectName": "SocialMedia.Framework.Core",
+        "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Alashkar\\.nuget\\packages\\",
+        "outputPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Alashkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Data\\SocialMedia.Framework.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Data\\SocialMedia.Framework.Data.csproj",
+        "projectName": "SocialMedia.Framework.Data",
+        "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Data\\SocialMedia.Framework.Data.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Alashkar\\.nuget\\packages\\",
+        "outputPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Alashkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj": {
+                "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Utilities\\SocialMedia.Framework.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Utilities\\SocialMedia.Framework.Utilities.csproj",
+        "projectName": "SocialMedia.Framework.Utilities",
+        "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Utilities\\SocialMedia.Framework.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Alashkar\\.nuget\\packages\\",
+        "outputPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Alashkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj": {
+                "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj"
+              },
+              "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Data\\SocialMedia.Framework.Data.csproj": {
+                "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Data\\SocialMedia.Framework.Data.csproj"
+              },
+              "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.ViewModel\\SocialMedia.Framework.ViewModel.csproj": {
+                "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.ViewModel\\SocialMedia.Framework.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.ViewModel\\SocialMedia.Framework.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.ViewModel\\SocialMedia.Framework.ViewModel.csproj",
+        "projectName": "SocialMedia.Framework.ViewModel",
+        "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.ViewModel\\SocialMedia.Framework.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Alashkar\\.nuget\\packages\\",
+        "outputPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Alashkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj": {
+                "projectPath": "F:\\Special Files\\Projects\\Aphrie\\SocialMediaApp\\SocialMedia.Framework.Web\\SocialMedia.Framework.Core\\SocialMedia.Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

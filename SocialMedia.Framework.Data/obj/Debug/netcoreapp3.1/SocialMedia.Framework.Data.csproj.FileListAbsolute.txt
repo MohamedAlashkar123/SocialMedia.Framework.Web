@@ -1,0 +1,12 @@
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Data.deps.json
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Data.dll
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Data.pdb
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Core.dll
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\bin\Debug\netcoreapp3.1\SocialMedia.Framework.Core.pdb
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Data.csprojAssemblyReference.cache
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Data.AssemblyInfoInputs.cache
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Data.AssemblyInfo.cs
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Data.csproj.CoreCompileInputs.cache
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Data.csproj.CopyComplete
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Data.dll
+F:\Special Files\Projects\Aphrie\SocialMediaApp\SocialMedia.Framework.Web\SocialMedia.Framework.Data\obj\Debug\netcoreapp3.1\SocialMedia.Framework.Data.pdb
